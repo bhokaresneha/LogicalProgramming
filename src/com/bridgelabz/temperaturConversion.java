@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
-class Ftoc
+class temperaturConversion
 {
     public static void main(String arg[])
     {
